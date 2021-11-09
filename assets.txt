@@ -1,0 +1,56 @@
+1.Setup files
+2.Folder Structure
+3.Images
+	pexels, pixabay,
+4.Fontawesome Icons
+5.Google Fonts
+	catamaran regular-400, bold-700
+	grand hotel
+6.General CSS Setup
+	variables, resets
+7.Colors
+8.Initial Setup
+	* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --slantedText: "Grand Hotel", cursive;
+  --primaryColor: #698f3f;
+  --secondaryColor: #fca311;
+  --mainDark: #3a3e3b;
+  --mainWhite: #fff;
+  --mainGrey: #e5e5e5;
+  --mainTransition: all 0.3s ease-in-out;
+  --letterSpacing: 0.5em;
+}
+
+body {
+  font-family: "Catamaran", sans-serif;
+  line-height: 1.5;
+}
+
+TOPICS
+pading,margin
+display property
+px, rem, em
+box-sizing
+
+Icons
+<span class="skill-icon">
+          <i class="fas fa-hamburger"></i>
+        </span>
+
+<span class="skill-icon">
+          <i class="fas fa-utensils"></i>
+        </span>
+
+<span class="skill-icon">
+          <i class="fas fa-glass-cheers"></i>
+        </span>
+
+<span class="skill-icon">
+          <i class="fas fa-pizza-slice"></i>
+        </span>
